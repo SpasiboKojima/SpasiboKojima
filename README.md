@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://andrew-k.vercel.app/">Personal Page</a>
+  &nbsp;▪&nbsp;
+  <a href="https://dev.to/thanksboss">Articles</a>
+</div>
 
 <!--
 **SpasiboKojima/SpasiboKojima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
